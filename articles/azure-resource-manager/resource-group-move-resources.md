@@ -31,7 +31,7 @@ Moving a resource only moves it to a new resource group. The move operation can'
 
 [!INCLUDE [updated-for-az](../../includes/updated-for-az.md)]
 
-## When to call Azure support
+## When to engage with Azure support
 
 You can move most resources through the self-service operations shown in this article. Use the self-service operations to:
 
